@@ -1,3 +1,0 @@
-enum LogType{}
-
-export class Log{}
